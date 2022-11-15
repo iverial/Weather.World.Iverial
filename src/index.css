@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+/* #pagina {
+    position: relative;
+    min-height: 887px;
+} */
+footer{
+    line-height: 60px;
+    background-color: rgba(0, 0, 0, 0.441);
+    color: white;
+    text-align:center;
+    font-family: Franklin Gothic;
+    margin-top: auto;
+}
